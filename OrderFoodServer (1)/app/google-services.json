@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "975577914932",
+    "firebase_url": "https://orderfood-c06c6-default-rtdb.firebaseio.com",
+    "project_id": "orderfood-c06c6",
+    "storage_bucket": "orderfood-c06c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975577914932:android:065fd48c012a90395af461",
+        "android_client_info": {
+          "package_name": "com.nhom4.orderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975577914932-8i4sk6vq1q33g2a8touri4dbhj3imvra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhom4.orderfood",
+            "certificate_hash": "57caf3b98cfda2a1e8ca5849f9ff348e863f5779"
+          }
+        },
+        {
+          "client_id": "975577914932-qftbj5pffnlvi6fveslllq3c1s1vq8ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTL5iLY5LR6eBNc37ThebmUKbzX2M7Dts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975577914932-qftbj5pffnlvi6fveslllq3c1s1vq8ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975577914932:android:200a571cf474aa9b5af461",
+        "android_client_info": {
+          "package_name": "com.nhom4.orderfoodserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975577914932-fvk1tt8nrl2423e9hlscgusem0rdi9t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhom4.orderfoodserver",
+            "certificate_hash": "57caf3b98cfda2a1e8ca5849f9ff348e863f5779"
+          }
+        },
+        {
+          "client_id": "975577914932-qftbj5pffnlvi6fveslllq3c1s1vq8ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTL5iLY5LR6eBNc37ThebmUKbzX2M7Dts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975577914932-qftbj5pffnlvi6fveslllq3c1s1vq8ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
